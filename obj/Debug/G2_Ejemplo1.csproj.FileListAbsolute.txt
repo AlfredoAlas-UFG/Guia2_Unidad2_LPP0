@@ -1,0 +1,10 @@
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\bin\Debug\Guia2_Unidad2.exe.config
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\bin\Debug\Guia2_Unidad2.exe
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\bin\Debug\Guia2_Unidad2.pdb
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\obj\Debug\G2_Ejemplo1.csproj.AssemblyReference.cache
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\obj\Debug\Guia2_Unidad2.Form1.resources
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\obj\Debug\Guia2_Unidad2.Properties.Resources.resources
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\obj\Debug\G2_Ejemplo1.csproj.GenerateResource.cache
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\obj\Debug\G2_Ejemplo1.csproj.CoreCompileInputs.cache
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\obj\Debug\Guia2_Unidad2.exe
+C:\ProyectosPersonales\LPP0\Guia2_Unidad2\obj\Debug\Guia2_Unidad2.pdb
