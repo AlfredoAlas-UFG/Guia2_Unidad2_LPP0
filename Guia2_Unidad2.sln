@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2_Ejemplo3", "G2_Ejemplo3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2_Ejemplo4", "G2_Ejemplo4\G2_Ejemplo4.csproj", "{A337B49E-E896-47EF-887B-AD0CD0B029E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2_Ejercicio2", "G2_Ejercicio1\G2_Ejercicio2.csproj", "{E30AC5AC-E935-4536-8329-841756EA50C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2_Ejercicio2", "G2_Ejercicio2\G2_Ejercicio2.csproj", "{E30AC5AC-E935-4536-8329-841756EA50C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2_Investigacion1", "G2_Investigacion1\G2_Investigacion1.csproj", "{A0F166C0-EFF5-4D53-B8A5-D2F740FAF8D1}"
 EndProject
